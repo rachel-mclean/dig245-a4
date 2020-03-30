@@ -1,0 +1,84 @@
+.bg-1 {
+  background-color: rgb(74, 115, 129);
+  color: #ffffff;
+}
+.bg-2 {
+background-color: rgb(74, 115, 129);
+color: #ffffff;
+}
+.bg-3 {
+  background-color: white;
+  color: #555555;
+}
+
+.address p {
+  line-height: .5;
+}
+
+.bg-3 img {
+  width: 3%;
+  height: 3%;
+  margin-top: 20px
+}
+
+.bg-0 {
+  background-color: rgb(108, 152, 167);
+  color: rgb(32, 28, 28);
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
+.bg-1 h2 {
+  background-color: rgb(108, 152, 167);
+  color: rgb(32, 28, 28);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(32, 28, 28);
+}
+
+h3 {
+  color: rgb(32, 28, 28);
+  font-size: 15px;
+  line-height: 1.5;
+  margin-left: 80px;
+  margin-right: 80px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: rgb(32, 28, 28);
+  text-align: center;
+}
+
+.navbar {
+  margin-bottom: 1px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 55px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
